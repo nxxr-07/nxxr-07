@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nxxr-07
 - 👀 I’m interested in Programming and Building amazing things.
-- 🌱 I’m currently learning Python, C++, DSA from Cs50, IITM and PTU.
+- 🌱 I’m currently learning Android Development, Java
+- I have build Projects on Python, Flask, C++
+- I learned DSA from Cs50, IITM and PTU.
 - 💞️ I’m looking to collaborate on creative projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/arshnoor7)
 
