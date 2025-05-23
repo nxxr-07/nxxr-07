@@ -9,9 +9,11 @@
 
 ## 🚀 About Me
 
-I’m a passionate Android developer who loves building real-world solutions using **Java**, **Kotlin**, and **Jetpack Compose**. I specialize in building apps that solve everyday problems — from study room booking systems to digital libraries. I’m also skilled in working with **Firebase**, **REST APIs**, and database systems like **MySQL** and **SQLite3**.
+I’m a passionate software engineer who loves building real-world solutions across platforms. While I started with Android development, I’ve expanded into full-stack web development and backend engineering using technologies like **Python Flask**, **Java Spring Boot**, and **MySQL**.
 
-Currently, I’m sharpening my core development skills through internships and collaborative projects while maintaining a top GPA across both my university and IIT Madras courses.
+I enjoy working on apps and APIs that solve practical problems — from home service platforms to quiz-based learning apps. My focus is on writing clean, maintainable code, learning new frameworks, and delivering functional projects end to end.
+
+Currently exploring **Java Spring Boot** and sharpening my backend engineering skills.
 
 ---
 
@@ -19,38 +21,63 @@ Currently, I’m sharpening my core development skills through internships and c
 
 ### 💼 Android Development Trainee  
 **Novem Controls Pvt. Ltd.** | *May 2024 – July 2024*  
-- Built **Spaces**, an Android app that lets students check room occupancy and reserve seats in real-time.  
-- Used **Jetpack Compose**, **Kotlin**, and **Firebase** for seamless UI and backend integration.  
+- Built **Spaces**, an Android app for real-time room booking.  
+- Used **Jetpack Compose**, **Kotlin**, and **Firebase**.  
 - [🔗 GitHub Repo](https://github.com/nxxr-07/AlmanaX-CollegeConnect)
 
 ### 💻 Java Development Intern  
 **Codveda Technologies** | *May 2025 – June 2025*  
-- Working on core Java development tasks to deepen my understanding of backend and object-oriented programming.  
-- Internship focused on hands-on implementation, task-based learning, and self-driven problem-solving.  
-- Certificate opted out — focused entirely on gaining real skill and project experience.
+- Working on backend systems using **Java**, **OOP**, and **Spring Boot**.  
+- Internship focused on backend architecture and API development.
 
 ---
 
-## 📱 Projects
+## 🛠️ Skills
 
-### 📌 [Spaces](https://github.com/nxxr-07/Spaces)
-An Android app for study room booking with real-time seat availability and Firebase integration.  
-**Tech:** Kotlin, Jetpack Compose, Firebase, REST API
+- **Languages:** Java, Kotlin, Python, JavaScript, SQL  
+- **Frameworks:** Flask, Spring Boot, Jetpack Compose  
+- **Databases:** MySQL, SQLite3, Firebase  
+- **Tools & Platforms:** Git, GitHub, Postman, Android Studio, VS Code, Firebase Console  
+- **Current Focus:** Spring Boot, RESTful APIs, scalable backend development
 
-### 📚 [BookShelf](https://github.com/nxxr-07/BoolShelf.git)
-Upload, search, download, and share PDFs. Features Firebase storage and user authentication.  
-**Tech:** Java, Kotlin, XML, Firebase
+---
+
+## 💼 Projects
+
+### 🏠 [HomeGuru](https://github.com/nxxr-07/HomeGuru)
+A home services web platform built with Flask and SQLite.  
+**Tech:** Python Flask, SQLite3, HTML/CSS
+
+### ❓ [Quiz Master](https://github.com/nxxr-07/QuizMaster)
+An interactive quiz web app with dynamic question and score handling.  
+**Tech:** Python Flask, SQLite3
+
+### 🧪 Flask APIs  
+Developed lightweight, functional REST APIs using Python Flask.  
+- User registration/login APIs  
+- Data CRUD endpoints  
+**Tech:** Python Flask, SQLite3, Postman
+
+### 📌 [Spaces](https://github.com/nxxr-07/Spaces)  
+An Android app for real-time study room bookings.  
+**Tech:** Kotlin, Jetpack Compose, Firebase
+
+### 📚 [BookShelf](https://github.com/nxxr-07/BoolShelf.git)  
+A mobile app to upload and share PDFs with Firebase storage.  
+**Tech:** Java, Kotlin, Firebase
 
 ---
 
 ## 🏆 Achievements
-- Earned **5 S-Grades** and multiple **Subject Topper Badges** from IIT Madras.
-- **Selected for scholarships** in both BCA and the IIT Madras Foundation programme.
-- Elected **Class Representative** of BCA program (2023–Present).
+
+- 5 **S-Grades** and multiple **Topper Badges** at IIT Madras  
+- **Dual scholarship** holder (BCA & IIT Madras Foundation)  
+- Elected **Class Representative** (2023–Present)
 
 ---
 
 ## 📫 Let’s Connect!
+
 - Email: arshnoorb7@gmail.com  
 - LinkedIn: [linkedin.com/in/arshnoor7](https://linkedin.com/in/arshnoor7)  
 - GitHub: [github.com/nxxr-07](https://github.com/nxxr-07)
