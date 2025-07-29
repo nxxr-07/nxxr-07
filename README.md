@@ -1,8 +1,11 @@
 # 👋 Hey, I'm Arshnoor
 
 👨‍💻 Software Developer Intern @DataTroops
+
 👨‍🎓 Pursuing MCA from Lovely Professional University 
+
 🎓 BCA Graduate at IK Gujral Punjab Technical University  
+
 🧠 Dual scholar at IIT Madras – Foundation in Programming & Data Science  
 📍 Bathinda, Punjab | 📧 arshnoorb7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arshnoor7) | [GitHub](https://github.com/nxxr-07)
