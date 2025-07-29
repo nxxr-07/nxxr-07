@@ -14,15 +14,19 @@
 
 ## 🚀 About Me
 
-I’m a passionate software engineer who loves building real-world solutions across platforms. While I started with Android development, I’ve expanded into full-stack web development and backend engineering using technologies like **Python Flask**, **Java Spring Boot**, and **MySQL**.
+I’m a passionate software engineer who loves building real-world solutions across platforms. While I started with Android development, I’ve expanded into full-stack web development and backend engineering using technologies like **Python Flask**, **Scala Play Framework GraphQL **, and **MySQL**.
 
 I enjoy working on apps and APIs that solve practical problems — from home service platforms to quiz-based learning apps. My focus is on writing clean, maintainable code, learning new frameworks, and delivering functional projects end to end.
 
-Currently exploring **Java Spring Boot** and sharpening my backend engineering skills.
+Currently exploring **NextJs, Scala, GraphQL** and sharpening my backend engineering skills.
 
 ---
 
 ## 🧑‍💻 Experience
+
+### 🚀 Software Developer Intern
+**DataTroops LLP ** | *June 2025 - Present*
+- Full  Stack Software Development.
 
 ### 💼 Android Development Trainee  
 **Novem Controls Pvt. Ltd.** | *May 2024 – July 2024*  
